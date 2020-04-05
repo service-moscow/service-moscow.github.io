@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */ 
+
+button.form-master-button-over img.over, button.form-master-button-hover img.hover, button.form-master-button-click img.click
+							  {display:block;}
+							  button.form-master-button-over img.hover, button.form-master-button-over img.click, 
+							  button.form-master-button-hover img.over, button.form-master-button-hover img.click,
+							  button.form-master-button-click img.over, button.form-master-button-click img.hover
+							  {display:none;}
+						  .style1 {
+				text-align: center;
+}
+						  .style2 {
+				width: 100%;
+				clear: both;
+				margin-top: 43px;
+}
+						  .style3 {
+				font-size: small;
+}
+						  .style4 {
+				text-align: justify;
+}
